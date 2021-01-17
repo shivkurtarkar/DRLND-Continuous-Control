@@ -48,7 +48,7 @@ training hyperparameters are as follow:
 ## Plot of rewards
 
 ### for single agent environment
-The agent has been trained for 200 episodes. <br>
+The agent has been trained for 300 episodes. <br>
 ![scores](./Media/single_agent_scores.png)
 
 Here is the graph of the score evolution: <br>
