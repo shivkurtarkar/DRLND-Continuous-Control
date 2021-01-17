@@ -31,8 +31,8 @@ First structure I tried was the one form ddpg-pendulum preoject . I have adapted
 
  The critic network is composed of 3 FC layers with Leaky Relu activation after the first and second layer.
  - First layer: input size - 33  and output size - 256
- - Second layer: input size - 256 and output size - 128
- - Third layer: input size - 128 and output size - 4
+ - Second layer: input size - 289 and output size - 128
+ - Third layer: input size - 128 and output size - 1
 
 training hyperparameters are as follow:
 - Buffer size: 1000000
